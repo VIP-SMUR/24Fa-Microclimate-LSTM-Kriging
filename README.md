@@ -14,7 +14,7 @@ Deep Learning: LSTM-Kriging Model
 # Presentation
 
 <a href="https://www.youtube.com/watch?v=deMabiRxBAA" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/deMabiRxBAA/maxresdefault.jpg" width="480" alt="Final Presentation --- 24Fa --- Microclimate-LSTM-Kriging">
+    <img src="https://img.youtube.com/vi/deMabiRxBAA/maxresdefault.jpg" width="480" alt="Final Presentation --- 24Fa --- Microclimate-LSTM-Kriging" class="off-glb">
 </a>
 
 
